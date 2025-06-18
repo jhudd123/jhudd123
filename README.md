@@ -35,7 +35,7 @@ My work spans multiple domains, with a primary focus on:
 
 - GitHub: [@jhudd123](https://github.com/jhudd123)  
 - Email: john.aa.huddeston@gmail.com  
-- LinkedIn: *(add yours if applicable)*
+
 
 ---
 
