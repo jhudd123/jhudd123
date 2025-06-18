@@ -23,7 +23,7 @@ My work spans multiple domains, with a primary focus on:
 
 ## 🔬 Technical Interests
 
-- ML time-series models (LightGBM, ensemble methods, classification-based trading)  
+- ML time-series models (LightGBM, ensemble methods, classification-based trading, DQN agents, Actor-Critic)  
 - Statistical pattern recognition in financial data  
 - Fractal models, regime-switching dynamics, and momentum reversion  
 - Cryptographic primitives and secure protocol design (learning Rust)  
